@@ -1,0 +1,17 @@
+body {
+  background-color: #161c2b;
+  font-family: 'Electrolize', sans-serif;
+}
+
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#fauxHeading {
+  font-family: 'Electrolize', sans-serif;
+}
