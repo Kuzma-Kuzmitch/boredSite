@@ -18,6 +18,8 @@ $("#aboutButton").on("click", function() {
   $("#fishIcon").toggleClass("fa-flip-horizontal")
 })
 
+var apple = []
+
 
 
 
